@@ -105,14 +105,14 @@ img{
 }
 button{
     
-    width:30%;
+    width:85px;
     background-color: red;
     border-radius: 15px;
     border:inset;
     font-weight: 800;
 }
 button:hover{
-    width:35%;
+    width:90px;
     box-shadow: 0px 0px 2px 2px#409b07;
     background-color: red;
     border-radius: 15px;
